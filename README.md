@@ -1,1 +1,1 @@
-ASP.NET CORE WEB API Connected to the database
+ASP.NET CORE WEB API  Connected to the SQL SERVER database
